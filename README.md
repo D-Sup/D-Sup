@@ -2,7 +2,7 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=b224ef&height=100&section=header)
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=D-Sup&show_icons=true&theme=radical" height="255px"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=D-Sup&show_icons=true&theme=radical" height="240px"/>
 
 <div align="left">
   
@@ -21,7 +21,8 @@
   <img src="https://img.shields.io/badge/styled--components-%23DB7093.svg?&style=for-the-badge&logo=styled-components&logoColor=white" />
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white" />
 
-  ---
+  <br>
+  <br>
   
   <p>✨ About Me</p>
   <a href="https://d-sup.github.io" target="_blank"><img src="https://img.shields.io/badge/blog-%20c997.svg?&style=for-the-badge&logo=blogger&logoColor=white" /></a>

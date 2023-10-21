@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=12fff7&height=100&section=header)
+![header](https://capsule-render.vercel.app/api?type=waving&color=b224ef&height=100&section=header)
 
 <div>
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=D-Sup&show_icons=true&theme=radical" width=50%>
@@ -24,9 +24,12 @@
 
 <br>
 <br>
+<br>
+<br>
+<br>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FD-Sup&count_bg=%23FDD935&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=12fff7&height=100&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=b224ef&height=100&section=footer)
 
 </div>

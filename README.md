@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white" />
   <br>
   <br>
-  <a href="mailto:andongcelsius@gmail.com" target="_blank"><img src="https://img.shields.io/badge/blog-%20c997.svg?&style=for-the-badge&logo=blogger&logoColor=white" /></a>
+  <a href="https://d-sup.github.io" target="_blank"><img src="https://img.shields.io/badge/blog-%20c997.svg?&style=for-the-badge&logo=blogger&logoColor=white" /></a>
   <a href="mailto:andongcelsius@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
   </div>
 

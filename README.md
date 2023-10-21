@@ -2,7 +2,7 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=b224ef&height=100&section=header)
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=D-Sup&show_icons=true&theme=radical" height="240px"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=D-Sup&show_icons=true&theme=radical" height="235px"/>
 
 <div align="left">
   

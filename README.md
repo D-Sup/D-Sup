@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=b224ef&height=100&section=header)
 
 <div>
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=D-Sup&show_icons=true&theme=radical" width=50%>
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=D-Sup&show_icons=true&theme=radical" width=50% height=200px>
   <div align="center">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" /> 
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
@@ -22,7 +22,6 @@
 
 </div>
 
-<br>
 <br>
 <br>
 <br>
